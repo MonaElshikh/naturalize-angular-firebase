@@ -1,0 +1,1 @@
+# naturalize-angular-firebase
